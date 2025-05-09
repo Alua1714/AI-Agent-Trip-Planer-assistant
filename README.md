@@ -1,3 +1,7 @@
+# IMPORTANT
+
+This project was built for the hackUPC 2025, the most important hackathon of our region. We ended up winning the first prize for the SkyScanner challenge. Here is the devpost post of the hackthon. https://devpost.com/software/outfit-generator-3k6tv1 
+
 # TripMates - Team Trip Planner AI Agent (1st Place Winner)
 
 TripMates is an AI Agent that you can interact with in real time to help you plan trips with friends. This Agent uses a set of tools that call several APIs — Skyscanner for flight information and prices, Amadeus for hotel data, Ticketmaster and Meetup for activities and events, and more — to provide personalized answers tailored to user preferences, enriched with real-time travel and entertainment data.
